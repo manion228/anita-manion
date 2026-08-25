@@ -12,4 +12,4 @@ Live site: https://manion228.github.io/anita-manion/
 
 ## Updating content
 
-Edit `index.html` directly. Publications, awards, and media stats are sourced from Anita's CV (`assets/Anita-Manion-CV.docx`) — keep that file current and refresh the page content when it changes.
+Edit `index.html` directly. Publications, awards, and media stats are sourced from Anita's CV (`assets/Anita-Manion-CV.pdf`) — keep that file current and refresh the page content when it changes.
